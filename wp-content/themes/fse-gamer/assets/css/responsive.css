@@ -1,0 +1,98 @@
+/* Responsive CSS */
+
+@media screen and (max-width:1169px) and (min-width:981px) {
+	html{overflow-x:hidden; }
+}
+
+@media screen and (max-width: 980px){
+	.fse-overlap-image{ position:relative !important; right:auto !important; bottom:auto !important; margin:25px 0 !important;}
+	.wp-block-section-01 h2, .wp-block-section-02 h2{ font-size:28px !important; }
+	.wpcf7 input[type="text"], 
+	.wpcf7 input[type="tel"], 
+	.wpcf7 input[type="email"], 
+	.wpcf7 textarea{ 
+		width:100%;
+	}	
+	.blog-area .wp-block-post-template{
+		grid-template-columns: auto auto;
+	}
+	.menu-header,
+	.banner-wrap h2,
+	.banner-wrap p{
+		text-align: center;
+	}	
+	.menu-header nav,
+	.menu-header ul,
+	.menu-header .wp-block-buttons,
+	.banner-wrap .wp-block-buttons,
+	.logo-box,
+	.search-box .wp-block-search__inside-wrapper{
+		justify-content: center;
+	}
+	.game-box{
+        display: grid !important;
+        grid-template-columns: auto auto;
+    }
+    .search-box .wp-block-search__input {
+    	position: static;
+    }
+    .feature-box {
+	    margin-bottom: 35px !important;
+	}
+	.banner-wrap{
+    	min-height: 600px !important;
+	}
+}
+
+@media screen and (max-width:767px) {
+	*{box-sizing:border-box;}
+	.wp-block-navigation__responsive-container.is-menu-open.has-modal-open{ padding:25px;}
+	.banner-wrap h2{
+		font-size: 30px !important;
+	}
+	.services-wrap{
+    	display: flex !important;
+    }
+    .game-box{
+        display: flex !important;
+    }
+}
+
+
+@media screen and (max-width:1550px) and (min-width:1300px) {
+	.wp-block-button.header-button a {
+		padding: 10px !important;
+	}
+}
+
+@media screen and (max-width:1250px) and (min-width:769px) {
+	.header-button a {
+		font-size: 14px !important;
+		padding: 10px !important;
+	}
+	.banner-wrap h2{
+		font-size: 36px !important;
+	}
+	.banner-wrap p{
+		font-size: 18px !important;
+	}
+	.banner-wrap{
+    	min-height: 450px !important;
+	}
+	.slide-btn a{
+		padding: 10px !important;
+	    font-size: 16px !important;
+	}
+}
+
+@media screen and (max-width:1300px) and (min-width:1px) {
+	[class*="wp-container-core-group-is-layout-"] > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+		max-width: 90%;
+	}
+	.logo-div,.nav-div-header,.top-bar,.header-wrap,.main-slider .owl-stage-outer{
+		max-width: 100%;
+	}
+	.services-box{
+		width: auto !important;
+	}
+}

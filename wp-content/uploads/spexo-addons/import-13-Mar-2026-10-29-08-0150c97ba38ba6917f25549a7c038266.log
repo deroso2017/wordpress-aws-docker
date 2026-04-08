@@ -1,0 +1,252 @@
+
+Importing from XML https://themes.templatescoder.com/sastra-addon/wp-content/uploads/tmpcoder-templates-kit/demo-09/demo-09-18-04-2025-12-01pm.xml
+{"file":"C:\\Users\\behda\\Local Sites\\roni-tech\\app\\public\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.xml","url":"http:\/\/roni-tech.local\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.xml","type":"text\/xml"}
+{"post_title":"demo-09-18-04-2025-12-01pm.xml","guid":"http:\/\/roni-tech.local\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.xml","post_mime_type":"text\/xml"}
+{"success":true,"data":{"file":"C:\\Users\\behda\\Local Sites\\roni-tech\\app\\public\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.xml","url":"http:\/\/roni-tech.local\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.xml","type":"text\/xml"}}
+90
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: nginx/1.26.1
+MySQL version 		: 8.0.35
+XML Reader 		: Yes
+PHP Version 		: 8.2.27
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 10:31:15 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://spexoaddons.com/
+
+---
+
+Inserted - Term 20 - {"term_id":20,"name":"Chair","slug":"chair","term_group":0,"term_taxonomy_id":20,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 21 - {"term_id":21,"name":"Classic","slug":"classic","term_group":0,"term_taxonomy_id":21,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 22 - {"term_id":22,"name":"Decor","slug":"decor","term_group":0,"term_taxonomy_id":22,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 23 - {"term_id":23,"name":"Interior","slug":"interior","term_group":0,"term_taxonomy_id":23,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 24 - {"term_id":24,"name":"Lamp","slug":"lamp","term_group":0,"term_taxonomy_id":24,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 25 - {"term_id":25,"name":"Modern","slug":"modern","term_group":0,"term_taxonomy_id":25,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 26 - {"term_id":26,"name":"Plant","slug":"plant","term_group":0,"term_taxonomy_id":26,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 27 - {"term_id":27,"name":"Sofa","slug":"sofa","term_group":0,"term_taxonomy_id":27,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 28 - {"term_id":28,"name":"Stylish","slug":"stylish","term_group":0,"term_taxonomy_id":28,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 29 - {"term_id":29,"name":"Table","slug":"table","term_group":0,"term_taxonomy_id":29,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 30 - {"term_id":30,"name":"Wooden","slug":"wooden","term_group":0,"term_taxonomy_id":30,"taxonomy":"product_tag","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 31 - {"term_id":31,"name":"main-menu","slug":"main-menu","term_group":0,"term_taxonomy_id":31,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 91 - attachment - fav-icon
+Inserted - Post 92 - attachment - ad-slide-7.jpg
+Inserted - Post 93 - attachment - ad-slide-2.jpg
+Inserted - Post 94 - attachment - banner
+Inserted - Post 95 - attachment - banner
+Inserted - Post 96 - attachment - banner-2
+Inserted - Post 97 - attachment - cozy-hobby-growing-house-indoor-plants-cactus
+Inserted - Post 98 - attachment - collection-1
+Inserted - Post 99 - attachment - collection-2
+Inserted - Post 100 - attachment - collection-3
+Inserted - Post 101 - attachment - woocommerce-placeholder
+Inserted - Post 102 - attachment - product-1
+Inserted - Post 103 - attachment - product-1-inner2
+Inserted - Post 104 - attachment - product-1-inner3
+Inserted - Post 105 - attachment - product-1-inner4
+Inserted - Post 106 - attachment - product-1-inner
+Inserted - Post 107 - attachment - product-2
+Inserted - Post 108 - attachment - product-2-inner2
+Inserted - Post 109 - attachment - product2-inner-3
+Inserted - Post 110 - attachment - product-2-inner4
+Inserted - Post 111 - attachment - product-2-inner1
+Inserted - Post 112 - attachment - product-3
+Inserted - Post 113 - attachment - product-3-inner2
+Inserted - Post 114 - attachment - product-3-inner3
+Inserted - Post 115 - attachment - product-3-inner4
+Inserted - Post 116 - attachment - product-3-inner-1
+Inserted - Post 117 - attachment - product-4
+Inserted - Post 118 - attachment - product-4-inner2
+Inserted - Post 119 - attachment - product4-inner3
+Inserted - Post 120 - attachment - product-4-inner4
+Inserted - Post 121 - attachment - product-4-inner1
+Inserted - Post 122 - attachment - product-5
+Inserted - Post 123 - attachment - product-5
+Inserted - Post 124 - attachment - product-6
+Inserted - Post 125 - attachment - product-4
+Inserted - Post 126 - attachment - pp
+Inserted - Post 127 - attachment - product-1
+Inserted - Post 128 - attachment - product-2
+Inserted - Post 129 - attachment - product-2
+Inserted - Post 130 - attachment - product-3
+Inserted - Post 131 - attachment - product-3
+Inserted - Post 132 - attachment - product-4
+Inserted - Post 133 - attachment - banner-2
+Inserted - Post 134 - attachment - prop-bg.jpg
+Inserted - Post 135 - attachment - countdown
+Inserted - Post 136 - attachment - countdown
+Inserted - Post 137 - attachment - countdown
+Inserted - Post 138 - attachment - review-img.png
+Inserted - Post 139 - attachment - review-img-2.png
+Inserted - Post 140 - attachment - test-bg.jpg
+Inserted - Post 141 - attachment - pet.jpg
+Inserted - Post 142 - attachment - pet-grey.jpg
+Inserted - Post 143 - attachment - test-2.jpg
+Inserted - Post 144 - attachment - gbg-1.jpg
+Inserted - Post 145 - attachment - gbg-2.jpg
+Inserted - Post 146 - attachment - gbg-3.jpg
+Inserted - Post 147 - attachment - widget-im.jpg
+Inserted - Post 148 - attachment - placeholder.png
+Inserted - Post 149 - attachment - tv-grey.jpg
+Inserted - Post 150 - attachment - tv.jpg
+Inserted - Post 151 - attachment - pet-bg.jpg
+Inserted - Post 152 - attachment - placeholder.png
+Inserted - Post 153 - attachment - placeholder.png
+Inserted - Post 154 - attachment - placeholder.png
+Inserted - Post 155 - attachment - image-1
+Inserted - Post 156 - attachment - image-2
+Inserted - Post 157 - attachment - image-3
+Inserted - Post 158 - attachment - dummy-logo-6.png
+Inserted - Post 159 - attachment - placeholder.png
+Inserted - Post 160 - attachment - placeholder.png
+Inserted - Post 161 - attachment - placeholder.png
+Inserted - Post 162 - attachment - placeholder.png
+Inserted - Post 163 - attachment - bike-3.jpg
+Inserted - Post 164 - attachment - blog-1.jpg
+Inserted - Post 165 - attachment - pic-18.jpg
+Inserted - Post 166 - attachment - car-03.jpg
+Inserted - Post 167 - attachment - or-bg.jpg
+Inserted - Post 168 - attachment - hat-bg.jpg
+Inserted - Post 169 - attachment - 
+Inserted - Post 170 - attachment - 
+Inserted - Post 171 - attachment - 
+Inserted - Post 172 - attachment - 
+Inserted - Post 173 - attachment - 
+Inserted - Post 174 - attachment - 
+Inserted - Post 175 - attachment - 
+Inserted - Post 176 - attachment - 
+Inserted - Post 177 - attachment - 
+Inserted - Post 178 - attachment - 
+Inserted - Post 179 - attachment - product-1-inner4
+Inserted - Post 180 - attachment - product-1
+Inserted - Post 181 - attachment - product-1-inner
+Inserted - Post 182 - attachment - product-1-inner3
+Inserted - Post 183 - attachment - 
+Inserted - Post 184 - attachment - product-2-inner4
+Inserted - Post 185 - attachment - product-2-inner1
+Inserted - Post 186 - attachment - product-2-inner2
+Inserted - Post 187 - attachment - product2-inner-3
+Inserted - Post 188 - attachment - 
+Inserted - Post 189 - attachment - product-3-inner2
+Inserted - Post 190 - attachment - product-3-inner3
+Inserted - Post 191 - attachment - product-3-inner4
+Inserted - Post 192 - attachment - product-3-inner-1-min
+Inserted - Post 193 - attachment - 
+Inserted - Post 194 - attachment - product-4-inner2
+Inserted - Post 195 - attachment - product4-inner3
+Inserted - Post 196 - attachment - product-4-inner4
+Inserted - Post 197 - attachment - product-4-inner1
+Inserted - Post 198 - attachment - 
+Inserted - Post 199 - attachment - 
+Inserted - Post 200 - attachment - placeholder.png
+Inserted - Post 201 - attachment - b-1.jpg
+Inserted - Post 202 - attachment - b-8.jpg
+Inserted - Post 203 - attachment - b-7.jpg
+Inserted - Post 204 - attachment - b-6.jpg
+Inserted - Post 205 - attachment - b-5.jpg
+Inserted - Post 206 - attachment - b-4.jpg
+Inserted - Post 207 - attachment - b-3.jpg
+Inserted - Post 208 - attachment - b-2.jpg
+Inserted - Post 209 - attachment - shoes-bg.jpg
+Inserted - Post 210 - attachment - sofa-green-living-room-with-copy-space
+Inserted - Post 211 - attachment - 
+Inserted - Post 212 - attachment - placeholder-398.png
+Inserted - Post 213 - attachment - placeholder-411.png
+Inserted - Post 214 - attachment - placeholder-412.png
+Inserted - Post 215 - attachment - 
+Inserted - Post 216 - attachment - 
+Inserted - Post 217 - attachment - 
+Inserted - Post 218 - attachment - 
+Inserted - Post 219 - attachment - sub-banner.jpg
+Inserted - Post 220 - attachment - placeholder-5.png
+Inserted - Post 221 - attachment - placeholder.png
+Inserted - Post 222 - attachment - placeholder.png
+Inserted - Post 223 - attachment - 
+Inserted - Post 224 - attachment - 
+Inserted - Post 225 - attachment - about-us-1.png
+Inserted - Post 226 - attachment - placeholder.png
+Inserted - Post 227 - attachment - p1.png
+Inserted - Post 228 - attachment - p2.png
+Inserted - Post 229 - attachment - about
+Inserted - Post 230 - attachment - about-Photoroom
+Inserted - Post 231 - attachment - 
+Inserted - Post 232 - attachment - 
+Inserted - Post 233 - attachment - placeholder.png
+Inserted - Post 234 - attachment - placeholder.png
+Inserted - Post 235 - attachment - placeholder.png
+Inserted - Post 236 - attachment - team-3.jpg
+Inserted - Post 237 - attachment - team-1.jpg
+Inserted - Post 238 - attachment - team-2-1.jpg
+Inserted - Post 239 - attachment - team-4-1.jpg
+Inserted - Post 240 - attachment - placeholder.png
+Inserted - Post 241 - attachment - placeholder.png
+Inserted - Post 242 - attachment - placeholder.png
+Inserted - Post 243 - attachment - placeholder-392.png
+Inserted - Post 244 - attachment - placeholder-393.png
+Inserted - Post 245 - attachment - placeholder-394.png
+Inserted - Post 246 - attachment - c-02.jpg
+Inserted - Post 247 - attachment - placeholder.png
+Inserted - Post 248 - attachment - placeholder.png
+Inserted - Post 249 - attachment - placeholder.png
+Inserted - Post 250 - attachment - product-3-inner3
+Inserted - Post 251 - elementor_library - Default Kit
+Inserted - Post 252 - attachment - placeholder.png
+Inserted - Post 253 - attachment - placeholder.png
+Inserted - Post 254 - attachment - placeholder.png
+Inserted - Post 255 - attachment - placeholder.png
+Inserted - Post 256 - attachment - placeholder.png
+Inserted - Post 257 - attachment - placeholder.png
+Inserted - Post 261 - attachment - error.png
+Inserted - Post 262 - attachment - 
+Inserted - Post 268 - attachment - 
+Inserted - Post 271 - attachment - 
+Inserted - Post 273 - attachment - 
+Inserted - Post 277 - attachment - banner-3.jpg
+Inserted - Post 278 - attachment - banner-2-.jpg
+Inserted - Post 279 - attachment - placeholder-6.png
+Inserted - Post 280 - attachment - placeholder-7.png
+Inserted - Post 281 - attachment - placeholder-8.png
+Inserted - Post 287 - attachment - 
+Inserted - Post 288 - attachment - countdown
+Inserted - Post 289 - post - Hello world!
+Inserted - Post 290 - page - Home
+Inserted - Post 291 - theme-advanced-hook - Header
+Inserted - Post 292 - nav_menu_item - 
+Inserted - Post 293 - page - Shop
+Inserted - Post 294 - page - Cart
+Inserted - Post 295 - page - Checkout
+Inserted - Post 296 - page - My account
+Inserted - Post 297 - product - Modern wood stool
+Inserted - Post 298 - product - Ciamond Halo Stud Cum
+Inserted - Post 299 - product - Green fabric chair
+Inserted - Post 300 - product - Wooden stand lamp
+Inserted - Post 301 - product - Unique new table
+Inserted - Post 302 - product - Chair for iron frame
+Inserted - Post 303 - page - About
+Inserted - Post 304 - page - Contact
+Inserted - Post 263 - nav_menu_item - 
+Inserted - Post 264 - nav_menu_item - 
+Inserted - Post 265 - nav_menu_item - 
+Inserted - Post 305 - wp_navigation - Navigation
+Inserted - Post 306 - theme-advanced-hook - Footer
+Inserted - Post 307 - wpcf7_contact_form - Contact form 1
+Inserted - Post 308 - theme-advanced-hook - Shop
+Inserted - Post 309 - theme-advanced-hook - Single product
+Inserted - Post 259 - theme-advanced-hook - 404
+Inserted - Post 269 - theme-advanced-hook - Product category
+{"file":"C:\\Users\\behda\\Local Sites\\roni-tech\\app\\public\/wp-content\/uploads\/2026\/03\/demo-09-2025-04-18-12-01pm.json","url":"http:\/\/roni-tech.local\/wp-content\/uploads\/2026\/03\/demo-09-2025-04-18-12-01pm.json","type":"application\/json"}
+{"file":"C:\\Users\\behda\\Local Sites\\roni-tech\\app\\public\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.zip","url":"http:\/\/roni-tech.local\/wp-content\/uploads\/2026\/03\/demo-09-18-04-2025-12-01pm.zip","type":"application\/zip"}
+Imported - Site Options {"0":{"name":"","title":null,"description":null,"author":"spexoadmin","version":"2.0","elementor_version":"3.28.3","created":"2025-04-18 12:01:47","thumbnail":false,"site":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09","site-settings":["global-colors","global-typography","theme-style-typography","theme-style-buttons","theme-style-images","theme-style-form-fields","settings-background","settings-layout","settings-lightbox","settings-page-transitions","settings-custom-css"],"plugins":[{"name":"Contact+Form+7","plugin":"contact-form-7\/wp-contact-form-7","pluginUri":"https:\/\/contactform7.com\/","version":"6.0.4"},{"name":"Redux+Framework","plugin":"redux-framework\/redux-framework","pluginUri":"https:\/\/wordpress.org\/plugins\/redux-framework","version":"4.5.7"},{"name":"WooCommerce","plugin":"woocommerce\/woocommerce","pluginUri":"https:\/\/woocommerce.com\/","version":"9.7.0"}],"taxonomies":{"post":["category"],"nav_menu_item":["nav_menu"],"product":["product_type","product_visibility","product_cat","product_tag"]},"content":{"post":[],"page":{"234":{"title":"Contact","excerpt":"","doc_type":"wp-page","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/contact\/","terms":[]},"204":{"title":"About","excerpt":"","doc_type":"wp-page","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/about\/","terms":[]},"50":{"title":"Cart","excerpt":"","doc_type":"wp-page","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/cart\/","terms":[]},"2":{"title":"Home","excerpt":"","doc_type":"wp-page","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/","terms":[],"show_on_front":true}},"theme-advanced-hook":{"269":{"title":"Product category","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_product_category-product-category\/","terms":[]},"259":{"title":"404","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_404-404\/","terms":[]},"250":{"title":"Single product","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_single_product-single-product\/","terms":[]},"242":{"title":"Shop","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_product_archive-shop\/","terms":[]},"182":{"title":"Footer","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_footer-footer\/","terms":[]},"12":{"title":"Header","excerpt":"","doc_type":"wp-post","thumbnail":false,"url":"https:\/\/themes.templatescoder.com\/sastra-addon\/demo-09\/theme-advanced-hook\/user-type_header-header\/","terms":[]}},"tmpcoder_mega_menu":[]},"wp-content":{"post":["1"],"page":["52"],"nav_menu_item":["14","263","264","265"],"elementor_library":[],"product":["54","61","69","75","82","86"],"theme-advanced-hook":[],"tmpcoder_mega_menu":[]},"custom-post-type-title":{"post":{"name":"post","label":"Posts"},"page":{"name":"page","label":"Pages"},"elementor_library":{"name":"elementor_library","label":"My Templates"},"product":{"name":"product","label":"Products"},"theme-advanced-hook":{"name":"theme-advanced-hook","label":"Site Builder"},"tmpcoder_mega_menu":{"name":"tmpcoder_mega_menu","label":"Spexo Mega Menu"}}},"1":{"content":[],"settings":{"template":"default","system_colors":[{"_id":"primary","title":"Primary","color":"#6EC1E4"},{"_id":"secondary","title":"Secondary","color":"#54595F"},{"_id":"text","title":"Text","color":"#7A7A7A"},{"_id":"accent","title":"Accent","color":"#61CE70"}],"custom_colors":[],"system_typography":[{"_id":"primary","title":"Primary","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"600"},{"_id":"secondary","title":"Secondary","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"400"},{"_id":"text","title":"Text","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"400"},{"_id":"accent","title":"Accent","typography_typography":"custom","typography_font_family":"Roboto","typography_font_weight":"500"}],"custom_typography":[],"default_generic_fonts":"Sans-serif","container_width":{"unit":"px","size":1400,"sizes":[]},"page_title_selector":"h1.entry-title","viewport_md":768,"viewport_lg":1025,"viewport_tablet_extra":1200,"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_tablet_extra"]},"metadata":[]},"elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_experiment-e_optimized_css_loading":"inactive"}
