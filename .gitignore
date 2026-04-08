@@ -1,2 +1,10 @@
 .env
 docker-compose.ec2.yml
+
+wp-content/uploads/
+wp-content/cache/
+wp-content/ai1wm-backups/
+
+node_modules/
+vendor/
+.DS_Store
